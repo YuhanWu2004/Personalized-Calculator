@@ -1,7 +1,7 @@
 # Personalized-Calculator
 This is an application of the Tkinter module in Python. By using the button widget in the Tkinter module, I created a digital calculator with clickable buttons that can be personalized in many ways.
 
-A calculator that can run basic calculations is built by constructing different buttons that correspond to different calculations and functions that a basic calculator has.
+A calculator that can run basic calculations is built by constructing different buttons that correspond to different calculations and functions.
 
 The calculator can compute addition, subtraction, multiplication, and division. It can process integers and decimal numbers.
 
